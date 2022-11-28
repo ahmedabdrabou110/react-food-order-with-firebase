@@ -22,3 +22,7 @@
 .success {
   background-color: #1ad1b9;
 }
+
+.pending {
+    background-color: rgb(76, 37, 193);
+}
